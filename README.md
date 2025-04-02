@@ -1,16 +1,16 @@
-## Hi there 👋
+## WSG 👋
 
-<!--
-**Nolan-Gr/Nolan-Gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤓 About me 
+I am a dedicated software and hardware enthusiast with a passion for exploring new technologies and programming in different languages for my personnal projects. Studying in the IUT of Nantes.
 
-Here are some ideas to get you started:
+- 💻 Experienced in software and hardware development  
+- 🌍 Always exploring new programming languages and frameworks  
+- 🤝 Open to collaborations on impactful projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ technologies / tools 
+- Programming languages : kotlin, java, html/css, python, C#(a lil bit)
+- tools : Github/Gitlab, JetBrains IDE, VS Code
+- Currently working on W11 for my personnal projects and on linux for my school projects
+
+## 🤝 Contact Me
+- mail : nolan.grillet@etu.univ-nantes.fr
