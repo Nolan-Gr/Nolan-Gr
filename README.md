@@ -1,4 +1,4 @@
-## WSG 👋
+## Hi 👋
 
 ## About me 
 I am a dedicated software and hardware enthusiast with a passion for exploring new technologies and programming in different languages for my personnal projects. Studying in the IUT of Nantes.
